@@ -1,7 +1,6 @@
 # Easy training of ESIM using Docker
 
-
-
+[![Build Status](https://travis-ci.com/grzegorzwojdyga/ESIM.svg?branch=master)](https://travis-ci.com/grzegorzwojdyga/ESIM)
 
 
 
