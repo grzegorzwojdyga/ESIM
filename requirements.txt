@@ -1,0 +1,6 @@
+wget
+numpy
+nltk
+matplotlib
+tqdm
+torch

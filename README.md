@@ -1,3 +1,10 @@
+# Easy training of ESIM using Docker
+
+
+
+
+
+
 # ESIM - Enhanced Sequential Inference Model
 Implementation of the ESIM model for natural language inference with PyTorch
 
